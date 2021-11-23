@@ -1,0 +1,6 @@
+lastPurchaseID integer
+  locationIDLastPurchasedFrom integer
+  mostPurchasedLocationID integer
+  productTypesLastPurchased integer
+  productsIDLastPurchased integer
+  productsMostPurchasedID integer
